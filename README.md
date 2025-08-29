@@ -220,5 +220,5 @@ The impact of scaling LLMs was analyzed, showing that increasing parameters and 
 
 The experiment highlighted both positive impacts (creativity, productivity, discovery) and challenges (bias, misinformation, high computational cost, ethical concerns).
 
-👉 Thus, it is concluded that Generative AI and LLMs represent a transformative shift in AI, with enormous potential to drive innovation, provided their deployment is carried out responsibly and sustainably.
+Thus, it is concluded that Generative AI and LLMs represent a transformative shift in AI, with enormous potential to drive innovation, provided their deployment is carried out responsibly and sustainably.
 
