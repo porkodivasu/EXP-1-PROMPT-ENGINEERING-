@@ -11,7 +11,7 @@ Generative AI impact of scaling in LLMs.
 
 ## Algorithm:
 
-##Fundamentals of Generative AI and Large Language Models (LLMs)
+Fundamentals of Generative AI and Large Language Models (LLMs)
 
 Step 1: Start
 
@@ -58,7 +58,7 @@ Step 8: End
 
 ## Output:
 
-##Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
+Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 1. Introduction
 
 Generative Artificial Intelligence (Generative AI) represents a transformative branch of AI focused on creating new content such as text, images, music, code, and even 3D objects. Unlike traditional AI systems that focus primarily on classification or prediction, Generative AI produces novel outputs by learning patterns, structures, and representations from large-scale datasets. A major breakthrough in this domain is the development of Large Language Models (LLMs), which have demonstrated unprecedented capabilities in understanding and generating human-like text.
